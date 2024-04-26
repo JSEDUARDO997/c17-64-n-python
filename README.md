@@ -31,3 +31,4 @@ Nuestra plantilla de E-Commerce está diseñada para adaptarse a las necesidades
 ---
 
 ¡Gracias por visitar nuestra plantilla de E-Commerce! Estamos emocionados de ser parte de tu viaje hacia el éxito en el comercio electrónico. Si tienes alguna pregunta o necesitas asistencia, no dudes en ponerte en contacto con nuestro equipo a través de Slack, WhatsApp o el sistema de comentarios. ¡Disfruta construyendo tu tienda en línea!
+dsadsadsa
